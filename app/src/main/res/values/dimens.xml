@@ -1,0 +1,20 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    
+    <dimen name="statistics_tv_header_on_right">10sp</dimen>
+    <dimen name="statistics_card_view_txt_vw">13sp</dimen>
+    <dimen name="stat_screen_btn_radius">19sp</dimen>
+    <dimen name="stat_screen_btn_text_size">12sp</dimen>
+    <dimen name="stat_screen_btn_height">28dp</dimen>
+    <dimen name="trip_details_title_text_size">36dp</dimen>
+    <dimen name="trip_details_txt_size">24dp</dimen>
+    <dimen name="trip_details_map_corner">10dp</dimen>
+    <dimen name="trip_details_margin_top_chart">48dp</dimen>
+
+
+</resources>
